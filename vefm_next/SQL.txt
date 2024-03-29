@@ -1,0 +1,1 @@
+INSERT INTO `setup_details`(`bank_name`, `state`, `country`) VALUES ('STATE BANK OF INDIA','TAMIL NADU','INDIA'),('INDIAN BANK','KARNATAKA','AMERICA')
